@@ -1,4 +1,4 @@
---[[
+--[[ي
     SH Hub - Roblox UI Script
     Tabs: نسخ (Copy) | تحكم (Control)
 ]]
